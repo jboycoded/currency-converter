@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="ButtonStyle.color">
+        <item name="android:textColor">@color/cyanA100</item>
+    </style>
+
+    <style name="LinearLayoutStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:background">@color/linear_layout_color</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="LinearLayoutStyle.weight">
+        <item name="android:layout_weight">0.2</item>
+    </style>
+
+    <style name="TextViewStyle">
+        <item name="android:background">@color/bg_color</item>
+        <item name="android:gravity">end|bottom</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="ImageViewStyle">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginStart">15dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginEnd">15dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:src">@drawable/ic_flag_of_the_united_states</item>
+    </style>
+
+    <style name="CountryTextViewStyle">
+
+    </style>
+
+</resources>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="countries">
+        <item>"Algerian"</item>
+        <item>"Argentine"</item>
+        <item>"Australian"</item>
+        <item>"Bahrain"</item>
+        <item>"Bangladeshi"</item>
+        <item>"Belarus"</item>
+        <item>"Brazilian"</item>
+        <item>"Brunei"</item>
+        <item>"Bulgarian"</item>
+        <item>"Burmese"</item>
+        <item>"Cambodian"</item>
+        <item>"Canadian"</item>
+        <item>"Chilean"</item>
+        <item>"Chinese"</item>
+        <item>"Colombian"</item>
+        <item>"Costa Rican"</item>
+        <item>"Czech"</item>
+        <item>"Danish"</item>
+        <item>"Egyptian"</item>
+        <item>"European"</item>
+        <item>"Hong Kong"</item>
+        <item>"Hungarian"</item>
+        <item>"icelandic</item>
+        <item>"Indian"</item>
+        <item>"Indonesian"</item>
+        <item>"Iranian"</item>
+        <item>"Iraqi"</item>
+        <item>"Israel"</item>
+        <item>"Japanese"</item>
+        <item>"Jordanian"</item>
+        <item>"Kazakh"</item>
+        <item>"Kenya"</item>
+        <item>"Kuwait"</item>
+        <item>"Lao"</item>
+        <item>"Lebanese"</item>
+        <item>"Macanese"</item>
+        <item>"Malaysian"</item>
+        <item>"Mexicon"</item>
+        <item>"Moldovan"</item>
+        <item>"Moroccon"</item>
+        <item>"Nigerian"</item>
+        <item>"Nepalese"</item>
+        <item>"New Taiwan"</item>
+        <item>"New Zealand"</item>
+        <item>"Norwegian"</item>
+        <item>"Omani"</item>
+        <item>"Pakistani"</item>
+        <item>"Philippine"</item>
+        <item>"Polish"</item>
+        <item>"Pound"</item>
+        <item>"Qatari"</item>
+        <item>"Romanian"</item>
+        <item>"Russian"</item>
+        <item>"Saudi"</item>
+        <item>"Singapore"</item>
+        <item>"South African"</item>
+        <item>"Sri Lanka"</item>
+        <item>"swedish"</item>
+        <item>"Swiss"</item>
+        <item>"Syrian"</item>
+        <item>"Tanzanian"</item>
+        <item>"Thai"</item>
+        <item>"Tunisian"</item>
+        <item>"Turkish"</item>
+        <item>"UAE"</item>
+        <item>"Uganda"</item>
+        <item>"Ukrainian"</item>
+        <item>"US"</item>
+        <item>"Uzbekistani"</item>
+        <item>"Viet-namese"</item>
+        <item>"South Korea"</item>
+        <item>"Zambian"</item>
+    </array>
+
+    <array name="currencies">
+        <item>"Dinar DZD"</item>
+        <item>"Peso ARS"</item>
+        <item>"Dollar AUD"</item>
+        <item>"Dinar BHD"</item>
+        <item>"Taka BDT"</item>
+        <item>"Ruble BYN"</item>
+        <item>"Real BRL"</item>
+        <item>"Ringgit BND"</item>
+        <item>"Lev BGN"</item>
+        <item>"Kyat MMK"</item>
+        <item>"Riel KHR"</item>
+        <item>"Dollar CAD"</item>
+        <item>"Peso CLP"</item>
+        <item>"Yuan CNY"</item>
+        <item>"Peso COP"</item>
+        <item>"Colon CRC"</item>
+        <item>"Crown CZK"</item>
+        <item>"Krone DKK"</item>
+        <item>"Pound EGP"</item>
+        <item>"Euro EUR"</item>
+        <item>"Dollar HKD</item>
+        <item>"Forint HUF"</item>
+        <item>"Krona ISK"</item>
+        <item>"Rupee INR"</item>
+        <item>"Rupiah IDR"</item>
+        <item>"Rial IRR"</item>
+        <item>"Dinar IQD"</item>
+        <item>"New Shekel ILS"</item>
+        <item>"Yen JPY"</item>
+        <item>"Dinar JOD"</item>
+        <item>"Tenge KZT"</item>
+        <item>"Shilling KES"</item>
+        <item>"Dinar KWD"</item>
+        <item>"Kip LAK"</item>
+        <item>"Pound LBP"</item>
+        <item>"Pataca MOP"</item>
+        <item>"Ringgit MYR"</item>
+        <item>"Peso MXN"</item>
+        <item>"Leu MDL"</item>
+        <item>"Dirham MAD"</item>
+        <item>"Naira NGN"</item>
+        <item>"Rupee NPR"</item>
+        <item>"Dollar TWD"</item>
+        <item>"Dollar NZD"</item>
+        <item>"Krone NOK"</item>
+        <item>"Rial OMR"</item>
+        <item>"Rupee PKR"</item>
+        <item>"Peso PHP"</item>
+        <item>"Zloty PLN"</item>
+        <item>"Sterling GBP"</item>
+        <item>"Riyal QAR"</item>
+        <item>"Leu RON"</item>
+        <item>"Ruble RUB"</item>
+        <item>"Riyal SAR"</item>
+        <item>"Dollar SGD"</item>
+        <item>"Rand ZAR"</item>
+        <item>"Rupee LKR"</item>
+        <item>"Krona SEK"</item>
+        <item>"Franc CHF"</item>
+        <item>"Pound SYP"</item>
+        <item>"Shilling TZS"</item>
+        <item>"Baht THB"</item>
+        <item>"Dinar TND"</item>
+        <item>"Lira TRY"</item>
+        <item>"Dirham AED"</item>
+        <item>"shilling UGX"</item>
+        <item>"Hryvna UAH"</item>
+        <item>"Dollar USD"</item>
+        <item>"Som UZS"</item>
+        <item>"Dong VND"</item>
+        <item>"Won KRW"</item>
+        <item>"Kwacha ZMW"</item>
+    </array>
+
+    <array name="images">
+        <item>@drawable/ic_flag_of_algeria</item>
+        <item>@drawable/ic_flag_of_argentina</item>
+        <item>@drawable/ic_flag_of_australia</item>
+        <item>@drawable/ic_flag_of_bahrain</item>
+        <item>@drawable/ic_flag_of_bangladesh</item>
+        <item>@drawable/ic_flag_of_belarus</item>
+        <item>@drawable/ic_flag_of_brazil</item>
+        <item>@drawable/ic_flag_of_brunei</item>
+        <item>@drawable/ic_flag_of_bulgaria</item>
+        <item>@drawable/ic_flag_of_burma</item>
+        <item>@drawable/ic_flag_of_cambodia</item>
+        <item>@drawable/ic_flag_of_canada</item>
+        <item>@drawable/ic_flag_of_chile</item>
+        <item>@drawable/ic_flag_of_china</item>
+        <item>@drawable/ic_flag_of_colombia</item>
+        <item>@drawable/ic_flag_of_costa_rica</item>
+        <item>@drawable/ic_flag_of_the_czech_republic</item>
+        <item>@drawable/ic_flag_of_denmark</item>
+        <item>@drawable/ic_flag_of_egypt</item>
+        <item>@drawable/ic_flag_of_eu</item>
+        <item>@drawable/ic_flag_of_hongkong</item>
+        <item>@drawable/ic_flag_of_hungary</item>
+        <item>@drawable/ic_flag_of_iceland</item>
+        <item>@drawable/ic_flag_of_india</item>
+        <item>@drawable/ic_flag_of_indonesia</item>
+        <item>@drawable/ic_flag_of_iran</item>
+        <item>@drawable/ic_flag_of_iraq</item>
+        <item>@drawable/ic_flag_of_israel</item>
+        <item>@drawable/ic_flag_of_japan</item>
+        <item>@drawable/ic_flag_of_jordan</item>
+        <item>@drawable/ic_flag_of_kazakhstan</item>
+        <item>@drawable/ic_flag_of_kenya</item>
+        <item>@drawable/ic_flag_of_kuwait</item>
+        <item>@drawable/ic_flag_of_laos</item>
+        <item>@drawable/ic_flag_of_lebanon</item>
+        <item>@drawable/ic_flag_of_macao</item>
+        <item>@drawable/ic_flag_of_malaysia</item>
+        <item>@drawable/ic_flag_of_mexico</item>
+        <item>@drawable/ic_flag_of_moldova</item>
+        <item>@drawable/ic_flag_of_morocco</item>
+        <item>@drawable/ic_flag_of_nigeria</item>
+        <item>@drawable/ic_flag_of_nepal</item>
+        <item>@drawable/ic_flag_of_taiwan</item>
+        <item>@drawable/ic_flag_of_newzealand</item>
+        <item>@drawable/ic_flag_of_norway</item>
+        <item>@drawable/ic_flag_of_oman</item>
+        <item>@drawable/ic_flag_of_pakistan</item>
+        <item>@drawable/ic_flag_of_the_philippines</item>
+        <item>@drawable/ic_flag_of_poland</item>
+        <item>@drawable/ic_flag_of_the_united_kingdom</item>
+        <item>@drawable/ic_flag_of_qatar</item>
+        <item>@drawable/ic_flag_of_romania</item>
+        <item>@drawable/ic_flag_of_russia</item>
+        <item>@drawable/ic_flag_of_saudi_arabia</item>
+        <item>@drawable/ic_flag_of_singapore</item>
+        <item>@drawable/ic_flag_of_south_africa</item>
+        <item>@drawable/ic_flag_of_sri_lanka</item>
+        <item>@drawable/ic_flag_of_sweden</item>
+        <item>@drawable/ic_flag_of_switzerland</item>
+        <item>@drawable/ic_flag_of_syria</item>
+        <item>@drawable/ic_flag_of_tanzania</item>
+        <item>@drawable/ic_flag_of_thailand</item>
+        <item>@drawable/ic_flag_of_tunisia</item>
+        <item>@drawable/ic_flag_of_turkey</item>
+        <item>@drawable/ic_flag_of_the_united_arab_emirates</item>
+        <item>@drawable/ic_flag_of_uganda</item>
+        <item>@drawable/ic_flag_of_ukraine</item>
+        <item>@drawable/ic_flag_of_the_united_states</item>
+        <item>@drawable/ic_flag_of_uzbekistan</item>
+        <item>@drawable/ic_flag_of_vietnam</item>
+        <item>@drawable/ic_flag_of_south_korea</item>
+        <item>@drawable/ic_flag_of_zambia</item>
+    </array>
+</resources>

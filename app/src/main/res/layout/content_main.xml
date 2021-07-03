@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:background="@color/bg_color">
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom"
+            android:background="@color/transparent"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent" >
+
+            <LinearLayout
+                style="@style/LinearLayoutStyle">
+
+                <Button
+                    android:id="@+id/button7"
+                    style="@style/ButtonStyle"
+                    android:text="@string/button7" />
+
+                <Button
+                    android:id="@+id/button8"
+                    style="@style/ButtonStyle"
+                    android:text="@string/button8" />
+
+                <Button
+                    android:id="@+id/button9"
+                    style="@style/ButtonStyle"
+                    android:text="@string/button9" />
+
+                <Button
+                    android:id="@+id/button_c"
+                    style="@style/ButtonStyle.color"
+                    android:text="@string/buttonC" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/LinearLayoutStyle">
+
+                <Button
+                    android:id="@+id/button4"
+                    style="@style/ButtonStyle"
+                    android:text="@string/button4" />
+
+                <Button
+                    android:id="@+id/button5"
+                    style="@style/ButtonStyle"
+                    android:text="@string/button5" />
+
+                <Button
+                    android:id="@+id/button6"
+                    style="@style/ButtonStyle"
+                    android:text="@string/button6" />
+
+                <Button
+                    style="@style/ButtonStyle" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/LinearLayoutStyle">
+
+                <Button
+                    android:id="@+id/button1"
+                    style="@style/ButtonStyle"
+                    android:text="@string/button1" />
+
+                <Button
+                    android:id="@+id/button2"
+                    style="@style/ButtonStyle"
+                    android:text="@string/button2" />
+
+                <Button
+                    android:id="@+id/button3"
+                    style="@style/ButtonStyle"
+                    android:text="@string/button3" />
+
+                <Button
+                    style="@style/ButtonStyle" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/LinearLayoutStyle">
+
+                <Button
+                    android:id="@+id/button00"
+                    style="@style/ButtonStyle"
+                    android:text="@string/button00" />
+
+                <Button
+                    android:id="@+id/button0"
+                    style="@style/ButtonStyle"
+                    android:text="@string/button0" />
+
+                <Button
+                    android:id="@+id/button_dot"
+                    style="@style/ButtonStyle"
+                    android:text="@string/button." />
+
+                <Button
+                    android:id="@+id/button_x"
+                    style="@style/ButtonStyle.color"
+                    android:text="@string/buttonX" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</merge>

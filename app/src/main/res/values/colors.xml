@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default colors used in the app -->
+    <color name="purple_500">#FF6200EE</color>
+    <color name="black">#FF000000</color>
+    <color name="cyanA100">#18FFFF</color>
+    <color name="blue_50">#E3F2FD</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_900">#212121</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">@android:color/transparent</color>
+
+    <!-- custom colors for Light Mode -->
+    <color name="bg_color">@color/grey_100</color>
+    <color name="text_color">@color/black</color>
+    <color name="linear_layout_color">@color/blue_50</color>
+    <color name="appbar_color">@color/cyanA100</color>
+    <color name="description_text_color">@color/grey_900</color>
+
+</resources>
