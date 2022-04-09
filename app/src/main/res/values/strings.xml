@@ -4,7 +4,6 @@
     <string name="second_activity_name">Select Currency</string>
 
     <!-- content description -->
-    <string name="content_description">hi, this is a content description</string>
 
     <!-- string resources for button text -->
     <string name="buttonC">C</string>
@@ -34,7 +33,7 @@
     <!-- Other String resources -->
     <string name="country">US Dollar USD</string>
     <string name="amount">100</string>
-    <string name="data_provider">Data provided by the API provider</string>
+    <string name="data_provider">Data provided by currency.getgeoapi.com</string>
     <string name="refresh">Refresh completed</string>
 
 </resources>

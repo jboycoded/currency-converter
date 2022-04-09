@@ -8,6 +8,7 @@ import androidx.fragment.app.FragmentPagerAdapter;
 import java.util.ArrayList;
 import java.util.List;
 
+@SuppressWarnings("deprecation")
 public class PagerAdapter extends FragmentPagerAdapter {
     // Adapter for ViewPager which is used to set up the TabLayout
 
