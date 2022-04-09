@@ -191,6 +191,7 @@ public class exchangeRate_fragment extends Fragment {
 
             @Override
             public void onFailure(@NotNull okhttp3.Call call, @NotNull IOException e) {
+                e.printStackTrace();
                 //Log.e("HI THERE", "FAILURE 2" );
                 //Toast.makeText(context, "Failure to update currency value", Toast.LENGTH_SHORT).show();
             }
